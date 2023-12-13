@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @darioCuc
 - 👀 I’m interested in ... reading books and coding!
-- 🌱 I’m currently learning ... Typescript!
+- 🌱 I’m currently learning ... Machine Learning! 🤖
 - 💞️ I’m looking to collaborate on ... Veed.io/editor
 - 📫 How to reach me ... dario@veed.io || dario.curjak@hotmail.com
 
