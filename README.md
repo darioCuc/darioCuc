@@ -98,13 +98,13 @@
 
 
 <br/>
-
+<!--
 ## Top Open Source Projects
 
 [![SwagLabs Playwright](https://github-readme-stats.vercel.app/api/pin/?username=darioCuc&repo=SwagLabs-Playwright&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/darioCuc/SwagLabs-Playwright)
 [![Web Development Projects](https://github-readme-stats.vercel.app/api/pin/?username=darioCuc&repo=Web-Development-Projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/darioCuc/web-development-projects)
 [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=darioCuc&repo=portfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/darioCuc/portfolio)
-
+-->
 <br/>
 <hr/>
 <br/>
