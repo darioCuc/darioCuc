@@ -3,9 +3,9 @@
 </a>
 
 <h3 align="center">
-        <samp>&gt; Hello, I am
-                <b><a target="_blank" href="https://dariocuc.github.io/portfolio/">Dario Ćurjak</a></b>
-        </samp>
+  <samp>&gt; Hello, I am
+    <b><a target="_blank" href="https://dariocuc.github.io/portfolio/">Dario Ćurjak</a></b>
+  </samp>
 </h3>
 
 <p align="center"> 
@@ -19,40 +19,48 @@
 </p>
 
 <p align="center">
-   <a href="https://alsiam.com" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
- </a>
- <a href="https://www.linkedin.com/in/dariocurjak/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
- </a>
- <a href="https://github.com/dariocuc" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
- </a>
- <a href="mailto:dario.curjak@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
- </a>
+  <a href="https://alsiam.com" target="blank">
+    <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://www.linkedin.com/in/dariocurjak/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/dariocuc" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:dario.curjak@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
   <a href="https://www.instagram.com/dario.currjack/" target="blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
+
 <br />
 
 # About me
 
 <p>
- <img align="right" width="350" src="assets/programmer.gif" alt="Coding gif" />
+  <img align="right" width="350" src="assets/programmer.gif" alt="Coding gif" />
   
- ✌️ &emsp; Passionate about automating and improving software quality <br/><br/>
- 🚀 &emsp; Skilled in Playwright, TypeScript, JavaScript, Puppeteer, CodeceptJS, Cypress, WebdriverIO, Selenium Webdriver, Java and more <br/><br/>
-  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
+  ✌️ &emsp; Passionate about automating and improving software quality <br/><br/>
+  
+  🚀 &emsp; Skilled in Playwright, TypeScript, JavaScript, Puppeteer, CodeceptJS, Cypress, WebdriverIO, Selenium Webdriver, Java and more <br/><br/>
+  
+  ❤️ &emsp; Love writing code and learning new features<br/><br/>
+  
   📚 &emsp; Currently learning: `React`, `Web Development`, `Python`, and `AI & ML` <br/><br/>
- 📧 &emsp; Reach me at: dario.curjak@gmail.com || dario.curjak@hotmail.com <br/><br/>
- 💬 &emsp; Feel free to ask me about automation, testing, and quality assurance [here](https://github.com/dariocuc/dariocuc/issues)
+  
+  📧 &emsp; Reach me at: <a href="mailto:dario.curjak@gmail.com">dario.curjak@gmail.com</a> || <a href="mailto:dario.curjak@hotmail.com">dario.curjak@hotmail.com</a> <br/><br/>
+  
+  💬 &emsp; Feel free to ask me about automation, testing, and quality assurance <a href="https://github.com/dariocuc/dariocuc/issues">here</a>
 
 </p>
 
 <br/>
+
 <br/>
+
 <br/>
 
 ## Skills and more
@@ -81,48 +89,73 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
-![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-
-
-
+![Web3](https://img.shields.io/badge/Web3-000000?style=for-the-badge&logo=ethereum&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white)
+![Percy](https://img.shields.io/badge/Percy-9E66BF?style=for-the-badge&logo=percy&logoColor=white)
+![Linear](https://img.shields.io/badge/Linear-5E6AD2?style=for-the-badge&logo=linear&logoColor=white)
+![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apache-jmeter&logoColor=white)
 
 <br/>
+
 <!--
+
 ## Top Open Source Projects
 
-[![SwagLabs Playwright](https://github-readme-stats.vercel.app/api/pin/?username=darioCuc&repo=SwagLabs-Playwright&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/darioCuc/SwagLabs-Playwright)
-[![Web Development Projects](https://github-readme-stats.vercel.app/api/pin/?username=darioCuc&repo=Web-Development-Projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/darioCuc/web-development-projects)
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=darioCuc&repo=portfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/darioCuc/portfolio)
+[![SwagLabs Playwright](https://github-readme-stats.vercel.app/api/pin/?username=dariocuc&repo=SwagLabs-Playwright&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/dariocuc/SwagLabs-Playwright)
+
+[![Web Development Projects](https://github-readme-stats.vercel.app/api/pin/?username=dariocuc&repo=Web-Development-Projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/dariocuc/web-development-projects)
+
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=dariocuc&repo=portfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/dariocuc/portfolio)
+
 -->
+
 <br/>
+
 <hr/>
+
 <br/>
 
 <p align="center">
   <a href="https://github.com/dariocuc">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=dariocuc&theme=radical&border=7F3FBF&background=0D1117" alt="Dario's GitHub streak"/>
   </a>
-  <a href="https://github.com/darioCuc"><img alt="Dario's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=darioCuc&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-</p>
-
-<!--
-<p align="center">
   <a href="https://github.com/dariocuc">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dariocuc&theme=radical" alt="Dario Ćurjak's GitHub Contribution"/>
+    <img alt="Dario's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=dariocuc&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
   </a>
 </p>
 
-<a>
+<!-- Alternative graph options - try these if the first one doesn't work -->
+
+<p align="center">
+  <a href="https://github.com/dariocuc">
+    <!-- Option 1: Standard activity graph with lowercase username -->
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=dariocuc&custom_title=Dario's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true&hide_border=true" alt="Dario's GitHub Activity Graph"/>
+  </a>
+</p>
+
+<!-- 
+  Alternative graph options if the above doesn't work:
+  
+  Option 2: Using github-profile-summary-cards
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dariocuc&theme=radical" alt="Dario's GitHub Contribution"/>
+  
+  Option 3: Using github-contributor-chart
+  <img src="https://github-contributor-chart.vercel.app/dariocuc" alt="Dario's Contribution Chart"/>
+  
+  Option 4: Using github-readme-stats with compact layout
+  <img src="https://github-readme-stats.vercel.app/api?username=dariocuc&show_icons=true&theme=radical&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&icon_color=7F3FBF" alt="Dario's GitHub Stats"/>
 -->
-![Dario's Graph](https://github-readme-activity-graph.vercel.app/graph?username=darioCuc&custom_title=Dario's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
