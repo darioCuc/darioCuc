@@ -111,20 +111,6 @@
 
 <br/>
 
-<!--
-
-## Top Open Source Projects
-
-[![SwagLabs Playwright](https://github-readme-stats.vercel.app/api/pin/?username=dariocuc&repo=SwagLabs-Playwright&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/dariocuc/SwagLabs-Playwright)
-
-[![Web Development Projects](https://github-readme-stats.vercel.app/api/pin/?username=dariocuc&repo=Web-Development-Projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/dariocuc/web-development-projects)
-
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=dariocuc&repo=portfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/dariocuc/portfolio)
-
--->
-
-<br/>
-
 <hr/>
 
 <br/>
@@ -138,24 +124,8 @@
   </a>
 </p>
 
-<!-- Alternative graph options - try these if the first one doesn't work -->
-
 <p align="center">
   <a href="https://github.com/dariocuc">
-    <!-- Option 1: Standard activity graph with lowercase username -->
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=dariocuc&custom_title=Dario's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true&hide_border=true" alt="Dario's GitHub Activity Graph"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dariocuc&theme=radical" alt="Dario's GitHub Contribution"/>
   </a>
 </p>
-
-<!-- 
-  Alternative graph options if the above doesn't work:
-  
-  Option 2: Using github-profile-summary-cards
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dariocuc&theme=radical" alt="Dario's GitHub Contribution"/>
-  
-  Option 3: Using github-contributor-chart
-  <img src="https://github-contributor-chart.vercel.app/dariocuc" alt="Dario's Contribution Chart"/>
-  
-  Option 4: Using github-readme-stats with compact layout
-  <img src="https://github-readme-stats.vercel.app/api?username=dariocuc&show_icons=true&theme=radical&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&icon_color=7F3FBF" alt="Dario's GitHub Stats"/>
--->
